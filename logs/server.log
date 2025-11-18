@@ -1,0 +1,25 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [152] using StatReload
+INFO:     Started server process [154]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:54322 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:54336 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54336 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54354 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54352 - "GET /api/profile HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54336 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54354 - "GET /api/profile HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54370 - "GET /api/profile HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48886 - "GET /api/profile HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48892 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48906 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48912 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54370 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48918 - "GET /api/profile HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48906 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48912 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54370 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48886 - "GET /api/profile HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48892 - "GET /api/packages HTTP/1.1" 200 OK
